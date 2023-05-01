@@ -1,0 +1,37 @@
+.comment-div{
+    margin-left: 4rem;;
+}
+.comment-pic{
+    width: 3rem;
+    height:3rem;
+    border-radius:50%;
+}
+.add-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+.p{
+    font-family: 'Aboreto', cursive;
+}
+.dle{
+    margin-top: 2px;
+}
+.dle:hover{
+    background-color: red;
+}
+.upd:hover{
+    background-color: rgb(79, 52, 132);
+}
+.rep:hover{
+    background-color: goldenrod;
+}
+.writey {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.4rem;
+}
+.btn{
+    margin: 4px;
+}
